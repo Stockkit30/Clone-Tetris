@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Tetros1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5291FF3B-257D-7150-B24A-BF12B9F8E104}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\tetros1\\assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291FF3B-257D-7150-B24A-BF12B9F8E104}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291FF3B-257D-7150-B24A-BF12B9F8E104}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Tetros1\\assets\\scripts\\tetromino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291FF3B-257D-7150-B24A-BF12B9F8E104}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tetromino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291FF3B-257D-7150-B24A-BF12B9F8E104}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Tetros1\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291FF3B-257D-7150-B24A-BF12B9F8E104}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291FF3B-257D-7150-B24A-BF12B9F8E104}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Tetros1\\assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291FF3B-257D-7150-B24A-BF12B9F8E104}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ButtonController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Tetros1\\Assets\\Scripts\\ButtonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Tetros1\\Assets\\Scripts\\ButtonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:31:16.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Tetros1\\Assets\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Tetros1\\Assets\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:18:08.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Tetros1\\Assets\\Scripts\\Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Tetros1\\Assets\\Scripts\\Game.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:11:08.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tetromino.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Tetros1\\Assets\\Scripts\\Tetromino.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tetromino.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Tetros1\\Assets\\Scripts\\Tetromino.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tetromino.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAuwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:34:25.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
